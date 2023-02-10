@@ -29,7 +29,7 @@ A Dashboard design built with CSS grid.
 
 ### Links
 
-- [Live Site URL](https://kure-ru.github.io/Sign-up-Form/)
+- [Live Site URL](https://kure-ru.github.io/Admin-Dashboard/)
 
 ## My process
 
